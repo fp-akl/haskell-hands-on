@@ -4,10 +4,13 @@ Materials for Haskell Hands-on sessions
 # Setup for FP Hands-on Haskell
 
 ## If you are new To Haskell
-
+### Intro
 First do the “5 minute” tutorial at http://www.tryhaskell.org/
 
-Then, we will use the exercises at https://repl.it/@utdemir/fp-auckland-haskell-hands-on
+Then choose option 1 or option 2 below.
+
+### Option 1: Learn You a Haskell
+Exercises at https://repl.it/@utdemir/fp-auckland-haskell-hands-on
 
 (These are from https://github.com/noelmarkham/learn-you-a-haskell-exercises , and are already setup in repl.it for you. Repl.it is a free online IDE, so it just works in your browser.)
 
@@ -16,6 +19,9 @@ These exercises follow the free online book “Learn You A Haskell for Great Goo
 Feel free to get started reading the book and doing the exercises before the meetup if you can. Since we are using Repl.it, you can ignore the parts of the book on how to install Haskell, since they are a bit out-of-date anyway.
 
 To load the exercises from a particular file into the REPL, issue a command like “:l 02.hs”.
+### Option 2: Keller and Chakravarty Tutorial
+
+http://tutorial.learninghaskell.com/ which has learning material with exercises at the end of each section.
 
 ## If you already know some Haskell
 ### Tools
