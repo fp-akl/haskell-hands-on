@@ -30,8 +30,8 @@ You may use whichever text editor you prefer.
 
 One option to consider is Atom with Haskell:
 
-    Atom: https://atom.io/
-    Haskell for Atom https://github.com/simonmichael/haskell-atom-setup
+* Atom: https://atom.io/
+* Haskell for Atom https://atom-haskell.github.io/
 
 ### Practical exercises
 #### Exercism (next step beyond beginner).  
