@@ -26,12 +26,16 @@ http://tutorial.learninghaskell.com/ which has learning material with exercises 
 ## If you already know some Haskell
 ### Tools
 
-You may use whichever text editor you prefer.
+You may use whichever text editor you prefer, there are a lot of options.
 
-One option to consider is Atom with Haskell:
+One option to consider is VS-Code with Haskell:
 
-* Atom: https://atom.io/
-* Haskell for Atom https://atom-haskell.github.io/
+* For MS-Windows 10, try this guide: https://github.com/tomjaguarpaw/tilapia/blob/master/Windows10.md
+* For MacOS:
+  * Install stack: https://docs.haskellstack.org/en/stable/README/#how-to-install
+  * Install VS-Code: https://code.visualstudio.com/
+  * Install "haskell.haskell" extention in VS-Code: https://marketplace.visualstudio.com/items?itemName=haskell.haskell
+
 
 ### Practical exercises
 #### Exercism (next step beyond beginner).  
@@ -41,15 +45,15 @@ http://exercism.io/languages/haskell/exercises
 
 You need to install `stack` and the exercism tool, instructions are on the exercism website.
 
-#### Data 61 (a bit harder)
+#### System-F's Haskell course (a bit harder)
 
-Data 61’s FP course: https://github.com/data61/fp-course
+https://github.com/system-f/fp-course
 
 These exercises are nicely setup, but not for beginners.
 
 Please follow the setup instructions:
 
-https://github.com/data61/fp-course/blob/master/README.markdown#getting-started
+https://github.com/system-f/fp-course/blob/master/README.markdown#getting-started
 
 Note that the README, although long, is required reading if following the exercises!
 
